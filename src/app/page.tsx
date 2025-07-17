@@ -96,7 +96,7 @@ export default function Home() {
             <div className="space-y-6">
               <div className="bg-white/80 dark:bg-slate-800/80 backdrop-blur-sm p-8 rounded-2xl shadow-xl border border-white/20 dark:border-slate-700/50 hover:shadow-2xl transition-shadow duration-300">
                 <p className="text-lg text-slate-700 dark:text-slate-200 leading-relaxed">
-                  I&apos;m a passionate{" "}
+                  A passionate{" "}
                   <span className="font-semibold text-purple-600 dark:text-purple-400">
                     🎓 BS Computer Engineering student
                   </span>{" "}
