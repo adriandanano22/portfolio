@@ -148,7 +148,7 @@ export default function Home() {
       </section>
 
       {/* Projects Section */}
-      <section className="container mx-auto px-8 py-20 bg-gradient-to-r from-slate-50/50 to-blue-50/50 dark:from-slate-900/50 dark:to-purple-900/20">
+      <section className="container mx-auto px-8 py-20">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent mb-6">
             My Projects 🚀
